@@ -1,0 +1,15 @@
+{
+  "tools": [
+    {"type": "Cognex.VisionPro.Caliper.CogFindCircleTool", "name": "CogFindCircleTool1"}
+  ],
+  "inputs": [],
+  "outputs": [
+    {"name": "ResultString", "type": "String"}
+  ],
+  "img_source": "file",
+  "img_path": "C:\\Users\\dell\\Desktop\\图片\\c5a0db36bc0e2ab2a0a8568a4f867c60.bmp",
+  "group_run": "group_run.cs",
+  "modify_record": "modify_record.cs",
+  "out_vpp": "C:\\Users\\dell\\Desktop\\VisionPro作品\\example_toolblock.vpp",
+  "extra_usings": ["Cognex.VisionPro.Caliper"]
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+last_script.cs
+.vpp
+*.vpp
+~/.workbuddy/cache/
